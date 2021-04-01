@@ -7,3 +7,5 @@ The 3 key toggles gamma correction on/off
 
 NOTE: Textures cause the program to take some time to start up, around 30 seconds on both computers I tried.
 If you cannot start the program, uncommenting line 408 in ray.fs will turn the textures off and should make it open much faster.
+
+Footage : https://www.youtube.com/watch?v=LGcf6i9GAbY
